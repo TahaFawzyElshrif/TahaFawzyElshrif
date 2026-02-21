@@ -54,7 +54,7 @@ I design and implement end-to-end AI systems, from data processing to deployment
 | **AidMate** | Cross-platform first aid app using health data and LLMs. | [GitHub](https://github.com/TahaFawzyElshrif/AidMate) |
 | **XO Game** | AI-powered Android Tic-Tac-Toe with alphabeta pruning. | [GitHub](https://github.com/TahaFawzyElshrif/HappyXO) |
 | **Happy Function** | Windows CLI app for symbolic differentiation in Dart. | [GitHub](https://github.com/TahaFawzyElshrif/Happy-Function) |
-| **Xiaomi Social Analysis** | Real-time social media complaint analysis using Kafka, Python, GPT. | [Report](Report_Xiaomi.pdf) |
+| **Xiaomi Social Analysis** | Real-time social media complaint analysis using Kafka, Python, GPT. |
 
 ---
 
@@ -69,7 +69,7 @@ I design and implement end-to-end AI systems, from data processing to deployment
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha-blue?style=flat&logo=linkedin)](https://linkedin.com/in/taha-elshrif)  
 [![GitHub](https://img.shields.io/badge/GitHub-TahaFawzyElshrif-black?style=flat&logo=github)](https://github.com/TahaFawzyElshrif)  
 [![Medium](https://img.shields.io/badge/Medium-Taha-black?style=flat&logo=medium)](https://medium.com/@tahaelshrif1)  
-[Email](mailto:tahaelshrif1@gmail.com) | [CV](CV.pdf) | [Upwork](https://www.upwork.com/freelancers/~01d6b2d468123a0c58) | [Khamsat](https://khamsat.com/user/tahadevx) | [Mostaql](https://mostaql.com/u/taha_fawzy2025)
+[Email](mailto:tahaelshrif1@gmail.com) | [Upwork](https://www.upwork.com/freelancers/~01d6b2d468123a0c58) | [Khamsat](https://khamsat.com/user/tahadevx) | [Mostaql](https://mostaql.com/u/taha_fawzy2025)
 
 ---
 
